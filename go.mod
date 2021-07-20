@@ -1,3 +1,3 @@
-module github.com/sakaipb/golang
+module github.com/sakaipb/newtech
 
 go 1.16
